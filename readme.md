@@ -1,3 +1,7 @@
+`sudo npm install hackmyresume -g`
+
+then
+
 `hackmyresume BUILD resume.json TO out/resume.pdf -t ./jsonresume-theme-classy`
 
 or
